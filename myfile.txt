@@ -1,0 +1,5 @@
+Note that once you have read some text from a file using one of the above
+operations then that line is not read again. Thus using readlines() would result
+in a further readlines() returning an empty list whatever the contents of the file.
+The following illustrates using the readlines() method to read all the text in
+a text file into a program and then print each line out in turn:

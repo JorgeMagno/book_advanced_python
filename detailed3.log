@@ -1,0 +1,7 @@
+01-30-2021 04:10:18:PM [INFO] __main__.<module>: Starting
+01-30-2021 04:10:18:PM [DEBUG] __main__.do_something: debug message
+01-30-2021 04:10:18:PM [INFO] __main__.do_something: info message
+01-30-2021 04:10:18:PM [WARNING] __main__.do_something: warn message
+01-30-2021 04:10:18:PM [ERROR] __main__.do_something: error message
+01-30-2021 04:10:18:PM [CRITICAL] __main__.do_something: critical message
+01-30-2021 04:10:18:PM [INFO] __main__.<module>: Done

@@ -1,0 +1,36 @@
+DEBUG:__main__:This is to help with debugging
+INFO:__main__:This is just for information
+WARNING:__main__:This is a warning!
+ERROR:__main__:This should be used with something unexpected
+CRITICAL:__main__:Something serious
+INFO:__main__:Starting
+DEBUG:__main__:debug message
+INFO:__main__:info message
+WARNING:__main__:warn message
+ERROR:__main__:error message
+CRITICAL:__main__:critical message
+INFO:__main__:Done
+INFO:__main__:Starting
+DEBUG:__main__:debug message
+INFO:__main__:info message
+WARNING:__main__:warn message
+ERROR:__main__:error message
+CRITICAL:__main__:critical message
+INFO:__main__:Done
+INFO:__main__:Starting
+DEBUG:__main__:debug message
+INFO:__main__:info message
+WARNING:__main__:warn message
+ERROR:__main__:error message
+CRITICAL:__main__:critical message
+INFO:__main__:Done
+INFO:__main__:Starting
+DEBUG:__main__:debug message
+INFO:__main__:info message
+WARNING:__main__:warn message
+ERROR:__main__:error message
+CRITICAL:__main__:critical message
+INFO:__main__:Done
+DEBUG:parso.cache:pickle loaded: /home/jorge/.local/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /home/jorge/.local/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+DEBUG:root:This is to help with debugging

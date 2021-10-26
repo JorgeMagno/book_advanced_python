@@ -1,0 +1,21 @@
+2021-01-30 15:44:22,787 - <module> - Starting
+2021-01-30 15:44:22,787 - do_something - debug message
+2021-01-30 15:44:22,787 - do_something - info message
+2021-01-30 15:44:22,787 - do_something - warn message
+2021-01-30 15:44:22,787 - do_something - error message
+2021-01-30 15:44:22,787 - do_something - critical message
+2021-01-30 15:44:22,787 - <module> - Done
+2021-01-30 16:08:41,360 - <module> - Starting
+2021-01-30 16:08:41,360 - do_something - debug message
+2021-01-30 16:08:41,361 - do_something - info message
+2021-01-30 16:08:41,361 - do_something - warn message
+2021-01-30 16:08:41,362 - do_something - error message
+2021-01-30 16:08:41,363 - do_something - critical message
+2021-01-30 16:08:41,364 - <module> - Done
+2021-01-30 16:10:18,842 - <module> - Starting
+2021-01-30 16:10:18,843 - do_something - debug message
+2021-01-30 16:10:18,843 - do_something - info message
+2021-01-30 16:10:18,843 - do_something - warn message
+2021-01-30 16:10:18,846 - do_something - error message
+2021-01-30 16:10:18,848 - do_something - critical message
+2021-01-30 16:10:18,851 - <module> - Done
